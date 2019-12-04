@@ -46,7 +46,7 @@ Para criar uma *issue*:
   - Como não se frustrar: como calibrar as suas expectativas.
   
  ### Exemplos de contribuições úteis
-
+    
  - Procure um material que tem um código exemplo significativo mas que não mostra o resultado visual do código: 
      - copiar no seu IDE o código, e ver se funciona (se não funcionar, pesquisar e possivelmente abrir um issue);
      - capturar o resultado (de preferência em .png);
